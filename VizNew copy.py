@@ -13,7 +13,7 @@ Data can be found at: https://github.com/metrica-sports/sample-data
 import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib.animation as animation
-import Metrica_PitchControlNew as mpc
+import PitchControlNew as mpc
 
 
 def plot_pitch( field_dimen = (106.0,68.0), field_color ='green', linewidth=2, markersize=20):
