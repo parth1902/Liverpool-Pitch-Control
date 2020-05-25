@@ -6,6 +6,10 @@ https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking
 
 https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row
 
+Use the notebook for pitch control plots and to find pitch control behind defence, as detailed in my post here:
+
+https://xgpershot.wordpress.com/2020/05/10/analysing-pitch-control-behind-defensive-lines/
+
 Both the data files have 3459 entries, and the following list tells the indices for each goal.
 
 - 0-154: Liverpool 3-0 Bournemouth
