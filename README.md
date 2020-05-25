@@ -3,6 +3,7 @@
 This repository is for plotting pitch control frames and videos for 19 Liverpool goals throughout 2019. The tracking data was provided by lastrow, and the pitch control model is taken from Friends of Tracking.
 
 0-154 Liverpool 3-0 Bournemouth
+
 155-319 Bayern 0-1 Liverpool
 
 320-502 Fulham 0-1 Liverpool
@@ -32,7 +33,10 @@ This repository is for plotting pitch control frames and videos for 19 Liverpool
 2542-2740 Liverpool 1-0 Everton
 
 
-2740-3027 Liverpool 2-0 Everton3028-3198 Bournemouth 0-3 Liverpool
+2740-3027 Liverpool 2-0 Everton
+
+3028-3198 Bournemouth 0-3 Liverpool
 
 3199-3423 Liverpool 1-0 Watford
+
 3424-3458 Leicester City 0-3 Liverpool
