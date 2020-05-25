@@ -32,7 +32,6 @@ This repository is for plotting pitch control frames and videos for 19 Liverpool
 
 2542-2740 Liverpool 1-0 Everton
 
-
 2740-3027 Liverpool 2-0 Everton
 
 3028-3198 Bournemouth 0-3 Liverpool
