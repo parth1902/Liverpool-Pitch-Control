@@ -1,7 +1,9 @@
 # Liverpool Pitch Control
  
 This repository is for plotting pitch control frames and videos for 19 Liverpool goals throughout 2019. The tracking data was provided by LastRow, and the pitch control model was taken from Friends of Tracking. Look here for more:
+
 https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking
+
 https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row
 
 Both the data files have 3459 entries, and the following list tells the indices for each goal.
